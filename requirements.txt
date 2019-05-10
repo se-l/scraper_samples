@@ -1,0 +1,11 @@
+scrapy
+scrapy-splash
+pillow
+boto
+shub
+pip install scrapy-crawlera
+numpy
+selenium
+json
+pickle
+pandas
